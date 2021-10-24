@@ -8,6 +8,8 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 0
 
+- This homework was done to create this page.
+
 ### Homework Assignment 1
 
 ### Homework Assignment 2
