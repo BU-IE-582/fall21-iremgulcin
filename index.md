@@ -8,7 +8,7 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 0
 
-- [Description of homework 0 (https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE582_Fall21_Homework1.pdf)
+- [Description of homework 0] (https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE582_Fall21_Homework1.pdf)
 - This homework was done to create this page.
 
 ### Homework Assignment 1
