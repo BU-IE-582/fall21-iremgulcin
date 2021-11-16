@@ -19,6 +19,10 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 2
 
+- [Description of homework 2](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw2/IE582_Fall21_Homework2.pdf)
+- [Page of homework 2](https://bu-ie-582.github.io/fall21-iremgulcin/hw2/Homework2.html)
+- [Code of homework 2](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw2/Homework2.ipynb)
+
 ### Homework Assignment 3
 
 ### Homework Assignment 4
