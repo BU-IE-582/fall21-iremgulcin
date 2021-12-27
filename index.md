@@ -31,9 +31,9 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 4
 
-- [Description of homework 3](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw4/IE582_Fall21_Homework4.pdf)
-- [Page of homework 3](https://bu-ie-582.github.io/fall21-iremgulcin/hw4/Homework4.html)
-- [Code of homework 3](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw4/Homework4.ipynb)
+- [Description of homework 4](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw4/IE582_Fall21_Homework4.pdf)
+- [Page of homework 4](https://bu-ie-582.github.io/fall21-iremgulcin/hw4/Homework4.html)
+- [Code of homework 4](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw4/Homework4.ipynb)
 
 ### Homework Assignment 5
 
