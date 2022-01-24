@@ -35,8 +35,11 @@ There will be several homework assignments done for this course.
 - [Page of homework 4](https://bu-ie-582.github.io/fall21-iremgulcin/hw4/Homework4.html)
 - [Code of homework 4](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/hw4/Homework4.ipynb)
 
-### Homework Assignment 5
-
 ### Final
 
 ### Group Project
+
+- [Description of project](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE_Project/IE582_Fall21_Project.pdf)
+- [Page of project](https://bu-ie-582.github.io/fall21-iremgulcin/IE_Project/IE582-project-codes-final.html)
+- [Code of project](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE_Project/IE582-project-codes-final.ipynb)
+- [Report of project]()
