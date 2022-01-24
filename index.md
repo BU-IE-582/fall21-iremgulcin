@@ -42,4 +42,4 @@ There will be several homework assignments done for this course.
 - [Description of project](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE_Project/IE582_Fall21_Project.pdf)
 - [Page of project](https://bu-ie-582.github.io/fall21-iremgulcin/IE_Project/IE582-project-codes-final.html)
 - [Code of project](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE_Project/IE582-project-codes-final.ipynb)
-- [Report of project]()
+- [Report of project](https://github.com/BU-IE-582/fall21-iremgulcin/blob/gh-pages/IE_Project/IE582_project_yildirim_zirhlioglu.pdf)
